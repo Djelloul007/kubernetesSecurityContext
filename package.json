@@ -1,0 +1,15 @@
+{
+  "name": "scanforsecuritycontext",
+  "version": "1.0.0",
+  "description": "Scan for kubernetes security context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djelloul Belarbi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0",
+    "yamljs": "^0.3.0"
+  }
+}

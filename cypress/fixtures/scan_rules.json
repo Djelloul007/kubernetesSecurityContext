@@ -1,0 +1,6 @@
+{
+  "yamlfile": "./data.yaml",
+  "rules": {
+    "rule001": "allowPrivilegeEscalation"
+  }
+}
